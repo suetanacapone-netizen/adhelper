@@ -1,4 +1,4 @@
-CATS_VERSION=1.2
+CATS_VERSION=7.7
 VEH= мв , мб , бмв , мерс, авто , машин, гелик, буг%+ат%+и, порш, ауди, tourbillon, турб[ио]лл[ио]н, ровер, вольво, volvo , bmw , mercedes, audi , porsche , bugatti , lamborghini , ниссан , nissan , тс , т/с , транспорт , крузак , land cruiser , шкода , skoda , zenvo , зенво , lexus , лексус , subaru , субару , scania , скания , raptor , раптор , тягач , уаз , uaz , m4 , roma spider , jeep , джип , tesla , тесла , ваз , vaz , мотоцикл, мото , ferrari , портофина , портофину , portofino , атлантик , atlantic , кадиллак , cadillac , dodge , додж , toyota , тойота , трейлер , цс , cs , лада , ладу , lada , rolls royce , роллс ройс , ролс ройс , м5 , m5 , мансори , mansory , майбах , maybach , пагани , pagani , зонда , zonda 
 FLAT= недвиж, квартир, кв , к/в , к\в 
 HOUSE= дом
